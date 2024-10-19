@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>IPWhitelistMiddleware</id>
+    <version>1.0.0</version>
+    <authors>IPWhitelistMiddleware</authors>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="8.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\PrafulChauhan\Downloads\Travelcarma\OwnNMPPackages\IPWhitelistMiddleware\IPWhitelistMiddleware\bin\Debug\net8.0\IPWhitelistMiddleware.dll" target="lib\net8.0\IPWhitelistMiddleware.dll" />
+    <file src="C:\Users\PrafulChauhan\Downloads\LICENSE.txt" target="\LICENSE.txt" />
+    <file src="C:\Users\PrafulChauhan\Downloads\README.md" target="\README.md" />
+  </files>
+</package>

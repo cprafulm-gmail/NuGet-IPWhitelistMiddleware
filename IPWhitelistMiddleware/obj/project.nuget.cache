@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "oPHPPhE8RPw1W2kXN77K8jQZqHOfo0JcN8apgxT7q8tcGstW1MEwX05u/umklmjbcUH4b/vwMBTO/7ihsF/qBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PrafulChauhan\\Downloads\\Travelcarma\\OwnNMPPackages\\IPWhitelistMiddleware\\IPWhitelistMiddleware\\IPWhitelistMiddleware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PrafulChauhan\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\PrafulChauhan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\PrafulChauhan\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\PrafulChauhan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PrafulChauhan\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.2\\microsoft.extensions.configuration.binder.8.0.2.nupkg.sha512",
+    "C:\\Users\\PrafulChauhan\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\PrafulChauhan\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
